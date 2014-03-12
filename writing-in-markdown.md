@@ -25,4 +25,5 @@ Like email, adding > before text indicates blockquotes.
 
 ##Link
 Wrap link text in brackets \[\] and link address in parenthesis just follow the brackets. 
+
 [Markedown](https://help.github.com/articles/writing-on-github) is cool.
